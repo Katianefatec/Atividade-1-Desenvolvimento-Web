@@ -1,0 +1,22 @@
+    
+body {background-image:url("fundo.png");
+    margin-top:25px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;}
+    h1 {color:black ;
+        text-align:left;}
+    h4 {color:black;
+        margin-right:220px;
+        text-align: center;}
+    
+    p {color:black;
+        text-align:justify;
+        margin-right:220px;}
+    .link{margin-right:215px;
+        margin-top: -30px;
+        text-align:right;}
+    .logo{text-align:left}    
+    .capa{margin-top: 30px;
+          }    
+
